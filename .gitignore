@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Temporary build files
+/prj_Keil/Listings
+/prj_Keil/Objects
+*.71349
